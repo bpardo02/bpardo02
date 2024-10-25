@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mí
 
-- 🎓 Actualmente, soy estudiante de analista programador.
+- 🎓 Actualmente soy estudiante de analista programador.
 - 🌱 Aprendiendo Django y PostgreSQL.
 - 💬 Puedes preguntarme sobre HTML, CSS y Bootstrap.
 - ⚡ Me gusta ver películas por partes de 20 minutos y jugar a cartas coleccionables (TCG).
