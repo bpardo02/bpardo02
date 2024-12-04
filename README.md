@@ -2,10 +2,9 @@
 
 ## 🚀 Sobre Mí
 
-- 🎓 Actualmente soy estudiante de analista programador.
-- 🌱 Aprendiendo Django y PostgreSQL.
-- 💬 Puedes preguntarme sobre HTML, CSS y Bootstrap.
-- ⚡ Me gusta ver películas por partes de 20 minutos y jugar a cartas coleccionables (TCG).
+Egresado de la carrera de Analista Programador y Técnico en Diseño Gráfico, con trayectoria en el ámbito de la tecnología. A lo largo de mi carrera he combinado mis conocimientos en hardware y software, desarrollando experiencia en áreas como la configuración de servidores, armado de equipos y revisión de componentes, junto con el desarrollo de sitios web estáticos y aplicaciones de mediana complejidad.
+
+Además de mi formación técnica, he trabajado como freelancer, lo que me ha permitido fortalecer mi capacidad de resolución de problemas y mi habilidad para gestionar proyectos de manera independiente. Poseo un enfoque integral que combina programación, diseño y administración de infraestructura tecnológica. Actualmente, continúo perfeccionando mis habilidades en Django y PostgreSQL, buscando siempre nuevas oportunidades para aplicar mis conocimientos y seguir creciendo como profesional.
 
 ## 🛠️ Habilidades y Tecnologías
 - **Lenguajes**: Python, JavaScript, C#
