@@ -31,7 +31,7 @@ Además de mi formación técnica, he trabajado como freelancer, lo que me ha pe
 </p>
 
 ## 🌐 Encuéntrame en:
-- [LinkedIn](https://www.linkedin.com/in/benjamin-pardo-a63542215/) ✨
+- [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-pardo-rodriguez-a63542215/) ✨
 
 ## 🎉 ¡Gracias por visitar mi perfil!
 Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarrolladores. ¡No dudes en conectarte o enviarme un mensaje!
